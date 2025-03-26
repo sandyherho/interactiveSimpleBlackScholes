@@ -18,7 +18,7 @@ A simple interactive Black-Scholes option pricing calculator with both command-l
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/black-scholes-calculator.git
+   git clone https://github.com/sandyherho/interactiveSimpleBlackScholes
    cd black-scholes-calculator
    ```
 
