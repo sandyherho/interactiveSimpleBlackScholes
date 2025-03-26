@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
 ![License](https://img.shields.io/badge/license-WTFPL-brightgreen)
+[![DOI](https://zenodo.org/badge/955614539.svg)](https://doi.org/10.5281/zenodo.15092764)
 
 A simple interactive Black-Scholes option pricing calculator with both command-line and interactive menu interfaces.
 
