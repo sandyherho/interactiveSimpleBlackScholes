@@ -19,7 +19,7 @@ A simple interactive Black-Scholes option pricing calculator with both command-l
 1. Clone this repository:
    ```bash
    git clone https://github.com/sandyherho/interactiveSimpleBlackScholes
-   cd black-scholes-calculator
+   cd interactiveSimpleBlackScholes
    ```
 
 2. Install required dependencies:
